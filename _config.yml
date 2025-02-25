@@ -31,11 +31,8 @@ github_username:  majickdave
 
 # Build settings
 theme: minima
-plugins: # add this line to the plugins list if you already have one
-- jekyll-feed
-
-include:
-- _pages
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
