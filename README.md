@@ -48,10 +48,13 @@ git push origin main
 Feel free to fork this repository and submit pull requests if you have improvements or suggestions!
 
 ## 📬 Connect with Me
-📧 Email: majickdave@gmail.com  
-🔗 [Portfolio Live Site](https://majickdave.github.io/)  
-🐙 [GitHub](https://github.com/majickdave)  
+📧 Email: your-email@example.com  
+🔗 [Portfolio Live Site](https://your-username.github.io/)  
+🐙 [GitHub](https://github.com/your-username)  
 
 ---
 
 Thanks for checking out my Jekyll-powered portfolio! 😊
+
+## 🌍 Meta Description
+> "Aspiring Data Scientist's portfolio showcasing projects, blog posts, and technical skills in data science, machine learning, and AI. Built with Jekyll and hosted on GitHub Pages."
