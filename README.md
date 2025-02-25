@@ -17,7 +17,7 @@ If you’d like to run this project locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/majickdave/majickdave.github.io.git
 cd your-portfolio
 ```
 
