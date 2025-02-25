@@ -30,7 +30,7 @@ twitter_username: majickdave
 github_username:  majickdave
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
