@@ -3,6 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+# David Samuel
 ## Data Scientist
 - email: <david.your.data.guru@gmail.com>
 - phone: [424-443-8023](tel:+1424-443-8023)
