@@ -1,9 +1,9 @@
 ---
-title: "A New Chapter: Moving My Portfolio to Jekyll After 8 Years"
-date: 2025-02-24
+title: "How I Built a form templater app in 2 days using NextJS, Supabase, and Vercel"
+date: 2025-03-04
 author: "David S."
 layout: post
-tags: [jekyll, portfolio, web development]
+tags: [nextJS, supabase, web development, vercel]
 ---
 
 ## Introducing Form Templater: Your All-in-One Solution for Creating Forms and Templates
