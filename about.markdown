@@ -8,7 +8,7 @@ permalink: /resume/
 - email: <david.your.data.guru@gmail.com>
 - phone: [424-443-8023](tel:+1424-443-8023)
 - Location: [San Diego, CA](https://maps.app.goo.gl/oYSYZxJgXjEZGYLn7)
-- linkedin: [https://www.linkedin.com/datascienceinsight](https://www.linkedin.com/datascienceinsight)
+- linkedin: [https://www.linkedin.com/in/datascienceinsight](https://www.linkedin.com/in/datascienceinsight)
 - github: [https://www.github.com/majickdave](https://www.github.com/majickdave)
 - portfolio: [https://majickdave.github.io](https://majickdave.github.io) 
 
