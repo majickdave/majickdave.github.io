@@ -30,7 +30,7 @@ October 2023 – May 2024
 metrics for a state-of-the-art, 3D graphics pipeline at the intersection of VR and AI computer vision. Link to video: [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=DcgHqJWJtHu9nyye)
 - Authored, tested, scheduled, and maintained dozens of data pipelines to ingest, transform, and load intermediate tables with billions rows
 of data for dashboard analytics using Python, Jupyter Notebooks, Hive, Presto SQL, Spark, and dataswarm (Airflow).
-- Utilized project management tools Collaborated with a team of software engineers, AI researchers, and data engineers to architect and
+- Collaborated with a team of software engineers, AI researchers, and data engineers to architect and
 maintain analytics pipelines and dashboards informing 50 monthly active users of real-time trends in the codec avatar pipeline.
 
 ### Data Analytics Instructor @ Edx
